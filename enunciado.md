@@ -81,8 +81,3 @@ El usuario eligió **'rojo'**, y tenemos los siguientes accesorios
 ```
 
 Al momento de generar el outfit, el sistema deberá seleccionar el accesorio con `"id": 10` (*orejeras*) por encima de los otros accesorios.
-
-# Diagrama de Flujo *(Sugerencia)*
-Este diagrama representa sólo **una** posible solución, no significa que sea el único válido
-
-![ropero](img/diagrama.png)
